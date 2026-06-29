@@ -12,7 +12,7 @@ Key behaviour:
 - Maps Salesforce card descriptions to Synergetic luCreditCard codes.
 
 Run:
-    streamlit run salesforce_to_synergetic_donation_converter.py
+    streamlit run csvtoxmlconvertor_streamlit.py
 """
 
 from __future__ import annotations
